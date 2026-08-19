@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Umer%20Haider&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineering%20Technology%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud-Native%20%C2%B7%20Backend&descAlignY=54&descSize=16" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Umer%20Haider&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Backend%20Developer%20%C2%B7%20Toronto&descAlignY=54&descSize=16" alt="banner" />
 
 <p align="center">
   <a href="https://github.com/Umerhaider-786">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Fundamentals+first%2C+then+the+framework.;Java+%7C+Spring+Boot+%7C+.NET+%7C+Node.js;AWS+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+CI%2FCD;Built+from+first+principles." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+developer+based+in+Toronto.;Java+%7C+Spring+Boot+%7C+.NET+%7C+Node.js;AWS%2C+Docker%2C+Kubernetes%2C+CI%2FCD;Software+engineering+student+at+Centennial." alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,14 +19,14 @@
 
 ## About
 
-Software engineer trained through Centennial College's **Software Engineering Technology (Online)** advanced diploma — a three-year, six-semester program built around full-stack development, cloud-native architecture, and enterprise engineering practice.
+I’m a student in Centennial College’s Software Engineering Technology advanced diploma in Toronto. It’s a three year program, six semesters, taken online.
 
-I build the way the curriculum teaches it: strong computer-science fundamentals first (data structures, algorithmic complexity, OOP design), then layered with enterprise frameworks, cloud infrastructure, and production delivery workflows.
+Most of my work is backend. Java and Spring Boot, C# and .NET, plus the database and cloud pieces around them. The program spends a long stretch on fundamentals before it touches frameworks, which is why a lot of the repos here are small Java programs where I wrote the data structures by hand.
 
-- **Foundations** — data structures, Big-O analysis, recursion, OOP, abstraction, and design patterns, written from scratch in Java rather than pulled from a library.
-- **Backend** — Java / Spring Boot and C# / .NET services, relational and document data modelling.
-- **Cloud & DevOps** — AWS services, containerized workloads, CI/CD automation, Linux environments.
-- **Delivery** — Agile workflows, version-control discipline, testing strategy, and secure coding as part of the pipeline.
+* **Foundations.** Data structures, Big-O analysis, recursion, OOP, design patterns.
+* **Backend.** Java / Spring Boot and C# / .NET services. Relational and document data modelling.
+* **Cloud and DevOps.** AWS, containers, CI/CD, Linux.
+* **Practice.** Agile workflows, version control, testing, secure coding.
 
 ---
 
@@ -71,32 +71,32 @@ I build the way the curriculum teaches it: strong computer-science fundamentals 
 
 ---
 
-## Featured Projects
+## Projects
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[devpilot-2026-milestone](https://github.com/Umerhaider-786/devpilot-2026-milestone)** | Milestone project exploring developer tooling and automated workflows. | `JavaScript` `Node.js` |
-| **[aws-pdf](https://github.com/Umerhaider-786/aws-pdf)** | Document processing pipeline on AWS — notebook-driven extraction and analysis of PDF content. | `Python` `Jupyter` `AWS` |
-| **[s3-bucket](https://github.com/Umerhaider-786/s3-bucket)** | .NET integration with AWS S3: programmatic object storage, uploads, and lifecycle handling. | `C#` `.NET` `AWS S3` |
-| **[welcome-page-springboot](https://github.com/Umerhaider-786/welcome-page-springboot)** | Spring Boot web service — controllers, routing, and templated views on the JVM. | `Java` `Spring Boot` |
-| **[property-registration](https://github.com/Umerhaider-786/property-registration)** | Property registration domain model with persistence and validation logic. | `Java` `OOP` |
-| **[data-structure-complex-java](https://github.com/Umerhaider-786/data-structure-complex-java)** | Advanced data structures implemented from first principles, with complexity analysis. | `Java` `Algorithms` |
+| **[devpilot-2026-milestone](https://github.com/Umerhaider-786/devpilot-2026-milestone)** | Group project for COMP-308. GraphQL microservices behind an Apollo gateway, with a React micro-frontend on top. I set up the project architecture and backend structure. | `JavaScript` `Node.js` |
+| **[aws-pdf](https://github.com/Umerhaider-786/aws-pdf)** | Notebooks for pulling text and data out of PDF files on AWS. | `Python` `Jupyter` `AWS` |
+| **[s3-bucket](https://github.com/Umerhaider-786/s3-bucket)** | A .NET app that uploads objects to S3 and handles their lifecycle. | `C#` `.NET` `AWS S3` |
+| **[welcome-page-springboot](https://github.com/Umerhaider-786/welcome-page-springboot)** | Small Spring Boot web service. Controllers, routing, templated views. | `Java` `Spring Boot` |
+| **[property-registration](https://github.com/Umerhaider-786/property-registration)** | Property registration model with persistence and validation logic. | `Java` `OOP` |
+| **[data-structure-complex-java](https://github.com/Umerhaider-786/data-structure-complex-java)** | Data structures built up from the basics, with complexity analysis. | `Java` `Algorithms` |
 
-> Also on this profile: a full set of algorithm and data-structure implementations — linked lists, heaps, recursion, prefix averages, palindromes, and Big-O characterization — written to understand the machinery, not to wrap it.
+> There are also a lot of small Java repos here from the data structures course: linked lists, heaps, recursion, prefix averages, palindromes, and Big-O analysis. I wrote those without using the built-in library versions.
 
 ---
 
 ## Education
 
-### Centennial College — School of Information Technology
+### Centennial College, School of Information Technology
 **Ontario College Advanced Diploma, [Software Engineering Technology](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online)**
 *3 years · 6 semesters · Toronto, ON*
 
-A program built for enterprise software engineering: designing, building, testing, and deploying production software while automating the development lifecycle.
+The program runs from programming fundamentals through databases, web and mobile development, cloud infrastructure, and testing. The last two semesters are mostly project work.
 
-**Core coursework**
+**Coursework**
 
-| Area | Coverage |
+| Area | What it covered || Area | Coverage |
 | :--- | :--- |
 | Programming foundations | Java, Python, C#, JavaScript / TypeScript, Kotlin; OOP, abstraction, design patterns |
 | Data structures & algorithms | Lists, stacks, queues, heaps, trees, hashing, recursion, Big-O characterization |
