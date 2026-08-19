@@ -125,10 +125,6 @@ A program built for AI-oriented software engineering: designing, building, testi
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Umerhaider-786&hide_border=true&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&background=0D1117&stroke=30363D&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="Contribution streak" />
-</p>
-
-<p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Umerhaider-786&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" alt="Activity graph" />
 </p>
 
