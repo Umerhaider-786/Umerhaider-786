@@ -19,7 +19,7 @@
 
 ## About
 
-Software engineer trained through Centennial College's **Software Engineering Technology (Online)** advanced diploma — a three-year, six-semester program built around full-stack development, cloud-native architecture, and enterprise engineering practice.
+Software engineer trained through Centennial College's **Software Engineering Technology** advanced diploma — a three-year, six-semester program built around full-stack development, cloud-native architecture, and enterprise engineering practice.
 
 I build the way the curriculum teaches it: strong computer-science fundamentals first (data structures, algorithmic complexity, OOP design), then layered with enterprise frameworks, cloud infrastructure, and production delivery workflows.
 
