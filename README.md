@@ -89,7 +89,7 @@ I build the way the curriculum teaches it: strong computer-science fundamentals 
 ## Education
 
 ### Centennial College — School of Information Technology
-**Ontario College Advanced Diploma, [Software Engineering Technology (Online)](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online)**
+**Ontario College Advanced Diploma, [Software Engineering Technology](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online)**
 *3 years · 6 semesters · Toronto, ON*
 
 A program built for enterprise software engineering: designing, building, testing, and deploying production software while automating the development lifecycle.
