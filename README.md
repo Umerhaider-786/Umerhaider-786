@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Umer%20Haider&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineering%20Technology%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud-Native%20%C2%B7%20AI-Assisted&descAlignY=54&descSize=16" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Umer%20Haider&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineering%20Technology%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud-Native%20%C2%B7%20Backend&descAlignY=54&descSize=16" alt="banner" />
 
 <p align="center">
   <a href="https://github.com/Umerhaider-786">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Fundamentals+first%2C+then+the+framework.;Java+%7C+Spring+Boot+%7C+.NET+%7C+Node.js;AWS+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+CI%2FCD;Building+with+AI%2C+not+around+it." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Fundamentals+first%2C+then+the+framework.;Java+%7C+Spring+Boot+%7C+.NET+%7C+Node.js;AWS+%C2%B7+Docker+%C2%B7+Kubernetes+%C2%B7+CI%2FCD;Built+from+first+principles." alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   <a href="https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online">
     <img src="https://img.shields.io/badge/Ontario%20College-Advanced%20Diploma-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Advanced Diploma" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Cloud%20%7C%20AI-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Cloud%20%7C%20DevOps-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
   <img src="https://img.shields.io/badge/Based%20in-Toronto%2C%20ON-2EA043?style=for-the-badge&labelColor=0D1117" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=Umerhaider-786&style=for-the-badge&color=6E7681&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -19,14 +19,14 @@
 
 ## About
 
-Software engineer trained through Centennial College's **Software Engineering Technology (Online)** advanced diploma — a three-year, six-semester program built around full-stack development, cloud-native architecture, and AI-oriented engineering practice.
+Software engineer trained through Centennial College's **Software Engineering Technology (Online)** advanced diploma — a three-year, six-semester program built around full-stack development, cloud-native architecture, and enterprise engineering practice.
 
-I build the way the curriculum teaches it: strong computer-science fundamentals first (data structures, algorithmic complexity, OOP design), then layered with enterprise frameworks, cloud infrastructure, and AI-assisted development workflows.
+I build the way the curriculum teaches it: strong computer-science fundamentals first (data structures, algorithmic complexity, OOP design), then layered with enterprise frameworks, cloud infrastructure, and production delivery workflows.
 
 - **Foundations** — data structures, Big-O analysis, recursion, OOP, abstraction, and design patterns, written from scratch in Java rather than pulled from a library.
 - **Backend** — Java / Spring Boot and C# / .NET services, relational and document data modelling.
 - **Cloud & DevOps** — AWS services, containerized workloads, CI/CD automation, Linux environments.
-- **AI-oriented engineering** — building with LLM tooling (LangChain / LangGraph) and working alongside intelligent code assistants as part of the delivery pipeline.
+- **Delivery** — Agile workflows, version-control discipline, testing strategy, and secure coding as part of the pipeline.
 
 ---
 
@@ -59,7 +59,7 @@ I build the way the curriculum teaches it: strong computer-science fundamentals 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Cloud, DevOps & AI**
+**Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -68,7 +68,6 @@ I build the way the curriculum teaches it: strong computer-science fundamentals 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ---
 
@@ -76,7 +75,7 @@ I build the way the curriculum teaches it: strong computer-science fundamentals 
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[devpilot-2026-milestone](https://github.com/Umerhaider-786/devpilot-2026-milestone)** | Milestone project exploring AI-assisted developer tooling and automated workflows. | `JavaScript` `Node.js` |
+| **[devpilot-2026-milestone](https://github.com/Umerhaider-786/devpilot-2026-milestone)** | Milestone project exploring developer tooling and automated workflows. | `JavaScript` `Node.js` |
 | **[aws-pdf](https://github.com/Umerhaider-786/aws-pdf)** | Document processing pipeline on AWS — notebook-driven extraction and analysis of PDF content. | `Python` `Jupyter` `AWS` |
 | **[s3-bucket](https://github.com/Umerhaider-786/s3-bucket)** | .NET integration with AWS S3: programmatic object storage, uploads, and lifecycle handling. | `C#` `.NET` `AWS S3` |
 | **[welcome-page-springboot](https://github.com/Umerhaider-786/welcome-page-springboot)** | Spring Boot web service — controllers, routing, and templated views on the JVM. | `Java` `Spring Boot` |
@@ -93,7 +92,7 @@ I build the way the curriculum teaches it: strong computer-science fundamentals 
 **Ontario College Advanced Diploma, [Software Engineering Technology (Online)](https://www.centennialcollege.ca/programs-courses/full-time/software-engineering-technology-online)**
 *3 years · 6 semesters · Toronto, ON*
 
-A program built for AI-oriented software engineering: designing, building, testing, and deploying enterprise software while collaborating with AI agents and automating the development lifecycle.
+A program built for enterprise software engineering: designing, building, testing, and deploying production software while automating the development lifecycle.
 
 **Core coursework**
 
@@ -106,7 +105,7 @@ A program built for AI-oriented software engineering: designing, building, testi
 | Cloud-native architecture | AWS, Azure, Docker, Kubernetes, distributed system design |
 | DevOps & automation | CI/CD pipelines, Linux environments, version control workflows |
 | Software quality | Testing strategy, secure coding, application security |
-| Data & AI | Data analytics, predictive modelling, LangChain / LangGraph, AI-assisted programming |
+| Data & analytics | Data analytics, predictive modelling, data pipelines and reporting |
 | Professional practice | Agile delivery, enterprise systems integration, capstone project work |
 
 ---
