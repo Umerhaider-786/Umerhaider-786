@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Ontario%20College-Advanced%20Diploma-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Advanced Diploma" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Cloud%20%7C%20AI-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
-  <img src="https://img.shields.io/badge/Based%20in-Toronto+%20ON-2EA043?style=for-the-badge&labelColor=0D1117" alt="Location" />
+  <img src="https://img.shields.io/badge/Based%20in-Toronto%2C%20ON-2EA043?style=for-the-badge&labelColor=0D1117" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=Umerhaider-786&style=for-the-badge&color=6E7681&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
